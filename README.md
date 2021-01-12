@@ -3,10 +3,7 @@ my actual stacks are reactJs, react-native and python,<br>
 I have a component published in NPM for react-native [react-native-picker-checkbox](https://github.com/ViniciusWovst/react-native-picker-checkbox), <br>
 I have also a component published in [PyPi.org](https://pypi.org/) for python [reuterpy](https://github.com/ViniciusWovst/reuterpy),
 
-
-
-
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=viniciuswovst.visitor-badge)](https://github.com/viniciuswovst)
+- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=viniciuswovst.visitor-badge)](https://github.com/viniciuswovst)
 
 - 📫 How to reach me  <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusrodrigueswovst/)](https://www.linkedin.com/in/viniciusrodrigueswovst/)
