@@ -1,4 +1,26 @@
-### Hi there 👋
+I'm a developer, that like so much solve problem, <br>
+my actual stacks are reactJs, react-native and python,<br>
+I have a component published in NPM for react-native [react-native-picker-checkbox](https://github.com/ViniciusWovst/react-native-picker-checkbox), <br>
+I have also a component published in [PyPi.org](https://pypi.org/) for python [reuterpy](https://github.com/ViniciusWovst/reuterpy),
+
+
+
+
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=viniciuswovst.visitor-badge)](https://github.com/viniciuswovst)
+
+- 📫 How to reach me  <br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusrodrigueswovst/)](https://www.linkedin.com/in/viniciusrodrigueswovst/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuswovst@gmail.com)](mailto:viniciuswovst@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/viniciuswovst/)](https://t.me/viniciuswovst/)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=viniciuswovst&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=merko)](https://github.com/viniciuswovst)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciuswovst&repo=react-native-picker-checkbox&theme=merko)](https://github.com/viniciuswovst/react-native-picker-checkbox)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciuswovst&repo=reuterspy&theme=merko)](https://github.com/viniciuswovst/reuterspy)
+
+
+
 
 <!--
 **ViniciusWovst/viniciusWovst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
