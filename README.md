@@ -1,4 +1,4 @@
-I'm a developer, that like so much solve problem, <br>
+I'm a developer, I like solve problems, <br>
 I'm CTO / Co-founder at [Cadex](https://cadex.app/),<br>
 my actual stacks are reactJs, react-native and python,<br>
 I have a component published in NPM for react-native [react-native-picker-checkbox](https://github.com/ViniciusWovst/react-native-picker-checkbox), <br>
