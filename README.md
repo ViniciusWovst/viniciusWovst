@@ -1,7 +1,9 @@
 I'm a developer, that like so much solve problem, <br>
+I'm CTO / Co-founder at [Cadex](https://cadex.app/),<br>
 my actual stacks are reactJs, react-native and python,<br>
 I have a component published in NPM for react-native [react-native-picker-checkbox](https://github.com/ViniciusWovst/react-native-picker-checkbox), <br>
 I have also a component published in [PyPi.org](https://pypi.org/) for python [reuterpy](https://github.com/ViniciusWovst/reuterpy),
+
 
 - [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=viniciuswovst.visitor-badge)](https://github.com/viniciuswovst)
 
@@ -15,7 +17,6 @@ I have also a component published in [PyPi.org](https://pypi.org/) for python [r
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciuswovst&repo=react-native-picker-checkbox&theme=merko)](https://github.com/viniciuswovst/react-native-picker-checkbox)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciuswovst&repo=reuterspy&theme=merko)](https://github.com/viniciuswovst/reuterspy)
-
 
 
 
