@@ -2,7 +2,7 @@ I'm a developer, I like solve problems, <br>
 I'm CTO / Co-founder at [Cadex](https://cadex.app/),<br>
 my actual stacks are reactJs, react-native and python,<br>
 I have a component published in [NPM](https://www.npmjs.com/) for react-native [react-native-picker-checkbox](https://github.com/ViniciusWovst/react-native-picker-checkbox), <br>
-I have also a component published in [PyPi.org](https://pypi.org/) for python [reuterpy](https://github.com/ViniciusWovst/reuterpy),
+I have also a component published in [PyPi.org](https://pypi.org/) for python [reuterpy](https://github.com/ViniciusWovst/reuterspy),
 
 
 
