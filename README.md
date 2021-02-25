@@ -1,10 +1,10 @@
 <img src="https://i.ibb.co/h1Wqm5S/pexels-kevin-ku-577585.jpg" alt="pexels-kevin-ku-577585" border="0">
 
-I'm a developer, I like solving problems, <br>
-I'm CTO / Co-founder at [Cadex](https://cadex.app/),<br>
-my actual stacks are reactJs, react-native and python,<br>
-I have a component published in [NPM](https://www.npmjs.com/) for react-native [react-native-picker-checkbox](https://github.com/ViniciusWovst/react-native-picker-checkbox), <br>
-I have also a component published in [PyPi.org](https://pypi.org/) for python [reuterpy](https://github.com/ViniciusWovst/reuterspy),
+⚡️ I'm a developer, I like solving problems, <br>
+🛠  I'm CTO / Co-founder at [Cadex](https://cadex.app/),<br>
+💻 my actual stacks are reactJs, react-native and python,<br>
+❄️ I have a component published in [NPM](https://www.npmjs.com/) for react-native [react-native-picker-checkbox](https://github.com/ViniciusWovst/react-native-picker-checkbox), <br>
+🐍 I have also a component published in [PyPi.org](https://pypi.org/) for python [reuterpy](https://github.com/ViniciusWovst/reuterspy),
 
 
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🐍 Fun fact: ...
 -->
