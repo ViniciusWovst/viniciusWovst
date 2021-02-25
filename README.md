@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/h1Wqm5S/pexels-kevin-ku-577585.jpg" alt="pexels-kevin-ku-577585" border="0">
+
 I'm a developer, I like solving problems, <br>
 I'm CTO / Co-founder at [Cadex](https://cadex.app/),<br>
 my actual stacks are reactJs, react-native and python,<br>
